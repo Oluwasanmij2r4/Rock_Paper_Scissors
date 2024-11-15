@@ -136,15 +136,3 @@ startGame.addEventListener("click", () => {
     playGame();
   }
 });
-
-// function resetGame(){
-//   humanChoice = "";
-//   humanChoiceDisplay.textContent = "Make a choice";
-//   resultDiv.textContent = "";
-//   comChoice.textContent = "";
-//   displayResult.textContent = '';
-//   displayScore.textContent = '';
-//  }
-
-// const resetbtn = document.querySelector(".reset");
-// resetbtn.addEventListener("click", () => resetGame());
